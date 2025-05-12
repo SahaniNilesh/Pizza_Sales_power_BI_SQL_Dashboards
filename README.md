@@ -50,6 +50,9 @@ The Pizza Sales Report dashboards provide a user-friendly interface and offer th
 
 Best/Worst Sellers Report Dashboard
 
+![image](https://github.com/user-attachments/assets/69780371-267d-4a95-b330-5d2614eb45d1)
+
+ 
 # How to Use the Dashboard
 1.	Open Power BI Desktop:
 o	Install Power BI Desktop if you haven't already.
